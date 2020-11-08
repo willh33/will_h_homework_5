@@ -13,5 +13,7 @@ A simple calendar application that allows the user to save events for each hour 
 
 <img src="./Assets/05-third-party-apis-homework-demo.gif">
 
+<a href='https://github.com/willh33'>Will Harrison</a>
+
 - - -
 © 2020 MIT
