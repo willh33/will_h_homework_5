@@ -11,7 +11,7 @@
 
 A simple calendar application that allows the user to save events for each hour of the day. Runs in the browser and features dynamically updated HTML and CSS powered by jQuery. Events aree saved to Local Storage.
 
-<img src="./05-third-party-apis-homework-demo.gif">
+<img src="./Assets/05-third-party-apis-homework-demo.gif">
 
 - - -
 © 2020 MIT
